@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dowload/LoveDatin/LoveDating/app/src/main/res/drawable/button_login.xml" value="0.22407407407407406" />
+        <entry key="..\:/Dowload/LoveDatin/LoveDating/app/src/main/res/drawable/edt_user.xml" value="0.26614583333333336" />
+        <entry key="..\:/Dowload/LoveDatin/LoveDating/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Dowload/LoveDatin/LoveDating/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Dowload/LoveDatin/LoveDating/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Dowload/LoveDatin/LoveDating/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Dowload/LoveDatin/LoveDating/app/src/main/res/layout/activity_reset_password.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
